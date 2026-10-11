@@ -1,6 +1,6 @@
 ## Hello World! 👋 Welcome to my GitHub.
 
-- 🔭 I’m currently working on a custom 3D game engine that sits in the middle of Roblox and Scratch for beginner game developers.
+- 🔭 I’m currently working on a custom 3D game engine that sits in the middle of Roblox and Scratch for beginner game developers as a school project.
 - 🌱 I’m currently learning more AI features and strengthening my DS and Algorithm skills.
 - 👯 I’m looking to collaborate on anything! Let me know your ideas and we can work on it.
 
