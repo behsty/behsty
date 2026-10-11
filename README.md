@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello World! 👋 Welcome to my GitHub.
+
+- 🔭 I’m currently working on a custom 3D game engine that sits in the middle of Roblox and Scratch for beginner game developers.
+- 🌱 I’m currently learning more AI features and strengthening my DS and Algorithm skills.
+- 👯 I’m looking to collaborate on anything! Let me know your ideas and we can work on it.
+
+Current looking for an internship in Singapore/United States/Asia.
 
 <!--
 **behsty/behsty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
