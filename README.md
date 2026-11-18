@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more AI features and strengthening my DS and Algorithm skills.
 - 👯 I’m looking to collaborate on anything! Let me know your ideas and we can work on it.
 
-Current looking for an internship in Singapore/United States/Asia.
+Current looking for an internship.
 
 <!--
 **behsty/behsty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
